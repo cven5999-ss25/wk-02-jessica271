@@ -11,17 +11,41 @@ Learning reflections are part of your weekly homework and have a weight of 20% o
 
 # Lecture
 
-<!--# Add your reflections on the lecture of this week here -->
+I found it fascinating to learn that Data Science follows a structured lifecycle: from data import, tidying, and transformation, to visualisation and communication. This cycle highlights how comprehensive and systematic proper data analysis can be. Compared to tools like Google Sheets, which often feel basic in its  approach, working through the full data science cycle leads to cleaner, more accurate, and insightful outcomes. I mean, right now creating the codes is still challenging but I am sure with more practice and experience from the coming classes, using R will be easier and fun.
 
-# Homework Assignment
+Homework Assignment
 
-<!--# Add your reflections on the homework programming assignment here -->
+Symbols like pipe operators, commas and assign operators are used to connect variables.
+
+Functions are crucial in R, for example:
+
+Mutate - Is used to derive specific variables from a data set. These specific data sets can also be used to plot graphs.
+
+The plots can also be customized using:
+
+box_plot(x,y)
+
+labs() to label the axis
+
+theme_minimal() for a clear visual theme
+
+color () for defined colors in the plot variables
 
 # Readings
 
-<!--# Add your reflections on the required readings here -->
+Values that are each associated with a variable and an observation are referred to as rectangular data, and are common in R.
 
-# Submit learning reflections
+R uses packages, that is, a collection of functions such as, tidyverse.
+
+dput() is used to run data in R, that is data that has been imported to to R.
+
+Note: R codes should be easy for other people to comprehend.
+
+library() is used to rerun packages installed in R. For example,
+
+library(tidyverse)
+
+*To be continued*
 
 ## Stage, Commit & Push to GitHub
 
