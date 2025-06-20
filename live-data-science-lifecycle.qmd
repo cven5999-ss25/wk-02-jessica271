@@ -28,6 +28,7 @@ The data is an [excerpt of the Gapminder data](https://www.gapminder.org/data/do
 
 ```{r}
 gapminder_yr_2007
+data = gapminder_yr_2007
 ```
 
 # Data tidying
